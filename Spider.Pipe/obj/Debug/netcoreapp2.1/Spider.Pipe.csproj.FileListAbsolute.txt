@@ -10,3 +10,16 @@ F:\Project\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.pdb
 F:\Project\DataSpider\Spider.Pipe\bin\Debug\netcoreapp2.1\Spider.Entity.dll
 F:\Project\DataSpider\Spider.Pipe\bin\Debug\netcoreapp2.1\Spider.Entity.pdb
 F:\Project\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.csproj.CopyComplete
+E:\hdh_github_workspaces\DataSpider\Spider.Pipe\bin\Debug\netcoreapp2.1\Spider.Entity.dll
+E:\hdh_github_workspaces\DataSpider\Spider.Pipe\bin\Debug\netcoreapp2.1\Spider.Entity.pdb
+E:\hdh_github_workspaces\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.csproj.AssemblyReference.cache
+E:\hdh_github_workspaces\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.GeneratedMSBuildEditorConfig.editorconfig
+E:\hdh_github_workspaces\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.AssemblyInfoInputs.cache
+E:\hdh_github_workspaces\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.AssemblyInfo.cs
+E:\hdh_github_workspaces\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.csproj.CoreCompileInputs.cache
+E:\hdh_github_workspaces\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.csproj.CopyComplete
+E:\hdh_github_workspaces\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.dll
+E:\hdh_github_workspaces\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.pdb
+E:\hdh_github_workspaces\DataSpider\Spider.Pipe\bin\Debug\netcoreapp2.1\Spider.Pipe.deps.json
+E:\hdh_github_workspaces\DataSpider\Spider.Pipe\bin\Debug\netcoreapp2.1\Spider.Pipe.dll
+E:\hdh_github_workspaces\DataSpider\Spider.Pipe\bin\Debug\netcoreapp2.1\Spider.Pipe.pdb

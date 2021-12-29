@@ -10,3 +10,16 @@ F:\Project\DataSpider\Spider.Processor\obj\Debug\netcoreapp2.1\Spider.Processor.
 F:\Project\DataSpider\Spider.Processor\bin\Debug\netcoreapp2.1\Spider.Entity.dll
 F:\Project\DataSpider\Spider.Processor\bin\Debug\netcoreapp2.1\Spider.Entity.pdb
 F:\Project\DataSpider\Spider.Processor\obj\Debug\netcoreapp2.1\Spider.Processor.csproj.CopyComplete
+E:\hdh_github_workspaces\DataSpider\Spider.Processor\bin\Debug\netcoreapp2.1\Spider.Entity.dll
+E:\hdh_github_workspaces\DataSpider\Spider.Processor\bin\Debug\netcoreapp2.1\Spider.Entity.pdb
+E:\hdh_github_workspaces\DataSpider\Spider.Processor\obj\Debug\netcoreapp2.1\Spider.Processor.csproj.AssemblyReference.cache
+E:\hdh_github_workspaces\DataSpider\Spider.Processor\obj\Debug\netcoreapp2.1\Spider.Processor.GeneratedMSBuildEditorConfig.editorconfig
+E:\hdh_github_workspaces\DataSpider\Spider.Processor\obj\Debug\netcoreapp2.1\Spider.Processor.AssemblyInfoInputs.cache
+E:\hdh_github_workspaces\DataSpider\Spider.Processor\obj\Debug\netcoreapp2.1\Spider.Processor.AssemblyInfo.cs
+E:\hdh_github_workspaces\DataSpider\Spider.Processor\obj\Debug\netcoreapp2.1\Spider.Processor.csproj.CoreCompileInputs.cache
+E:\hdh_github_workspaces\DataSpider\Spider.Processor\obj\Debug\netcoreapp2.1\Spider.Processor.csproj.CopyComplete
+E:\hdh_github_workspaces\DataSpider\Spider.Processor\obj\Debug\netcoreapp2.1\Spider.Processor.dll
+E:\hdh_github_workspaces\DataSpider\Spider.Processor\obj\Debug\netcoreapp2.1\Spider.Processor.pdb
+E:\hdh_github_workspaces\DataSpider\Spider.Processor\bin\Debug\netcoreapp2.1\Spider.Processor.deps.json
+E:\hdh_github_workspaces\DataSpider\Spider.Processor\bin\Debug\netcoreapp2.1\Spider.Processor.dll
+E:\hdh_github_workspaces\DataSpider\Spider.Processor\bin\Debug\netcoreapp2.1\Spider.Processor.pdb

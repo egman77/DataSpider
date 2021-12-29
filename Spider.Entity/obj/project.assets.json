@@ -2718,10 +2718,11 @@
   },
   "libraries": {
     "CassandraCSharpDriver/3.5.0": {
-      "sha512": "Hrs04eC9lPmV0dgpK87STNV9WD6Es203eMOqdNJtmxSfShG415qyLqod7KltfCG0O49MpSdPl2g/6SRNglfDJQ==",
+      "sha512": "X+rQHNceWewijxhJuAf4bHnL9cCxg0W47YHn2jn5EpdMvy3h6NlzkZmEGk+xF6iboqYxLCNqMO0aDPOgLGjPlA==",
       "type": "package",
       "path": "cassandracsharpdriver/3.5.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "cassandracsharpdriver.3.5.0.nupkg.sha512",
         "cassandracsharpdriver.nuspec",
@@ -2747,10 +2748,11 @@
       ]
     },
     "DnsClient/1.0.7": {
-      "sha512": "i6Imdyz+dvljMtQh1QtjMzguLEFFJCilecHiaRPIbNX4gK3zluf/3OQWD1XbVy5PXf1u394x5ImB+uu7DNMS1w==",
+      "sha512": "f3k5ufhUSL658fy/ac1mReqRIr0jGMyOJFvBqJ+7cASq01NIysYbrrRDjboYKAGrd0Y2mc1A749uQvT8vAA91A==",
       "type": "package",
       "path": "dnsclient/1.0.7",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "dnsclient.1.0.7.nupkg.sha512",
         "dnsclient.nuspec",
@@ -2808,10 +2810,11 @@
       ]
     },
     "HtmlAgilityPack/1.8.1": {
-      "sha512": "Z9Nl3aT3hTHVzlUGrhN/ZZggO+f9enN9NEJ6BoV7uOXL+muO28AWCcNPeSDHQdpOHy7wQiloW6SSif7q7jqE6Q==",
+      "sha512": "t4XOK/ickYiBladqu9+LtQeHz0EubZCSQYadzRMj6qeOXNLmI0Cw1bffjAAbH3+v8gUJWKpwV3arciXrx33s+w==",
       "type": "package",
       "path": "htmlagilitypack/1.8.1",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "htmlagilitypack.1.8.1.nupkg.sha512",
         "htmlagilitypack.nuspec",
@@ -2855,10 +2858,11 @@
       ]
     },
     "MailKit/2.0.3": {
-      "sha512": "YiMqUhANKjz39az3QWcy2UthD+vrimH1ntLaSRN8x5VSBv6tvGxgfTYYyYX3CeA/hBHdSJKwiwqblV0SYeedFQ==",
+      "sha512": "RrTVzkpJFbtcYYlT73pucCksr/tAK+Ec6MSGpsGpACanwBozj3X/S1OrGd7I9kn45bJxr/0+dIslXTnsNvWowQ==",
       "type": "package",
       "path": "mailkit/2.0.3",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/monoandroid/MailKit.dll",
         "lib/monoandroid/MailKit.xml",
@@ -2953,10 +2957,11 @@
       ]
     },
     "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
-      "sha512": "GEZr426plfXrwfrZEDEASr6bhnMmvyyAFC5vufFrXVYEXuQLN9s2AXXBGNmDaVis4ziHucPTUs0cLfSOAHqE/Q==",
+      "sha512": "2HjSGp63VCLQaeGadrLYR868g25mJHr+TFF81yWCaClzjUbU2vNDx6km7SUgPnoLVksE/1e7in88eh+oPtc4aQ==",
       "type": "package",
       "path": "microsoft.dotnet.platformabstractions/2.0.4",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -2978,10 +2983,11 @@
       ]
     },
     "Microsoft.Extensions.DependencyModel/2.0.4": {
-      "sha512": "fWKaONH3UsS6kacDYM2+cuodo0pkcxjtQU1DaXvT69f83r+8hUeaEaxeEzSh3fSmTlDv86FO1MDmAmh/9/y9Mg==",
+      "sha512": "jnHAeijsfJFQXdXmnYK/NhQIkgBUeth//RZZkf0ldIKC+jARbf7YxbA9uTrs/EPhuQxHXaDxVuMyscgmL+UqfA==",
       "type": "package",
       "path": "microsoft.extensions.dependencymodel/2.0.4",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -3015,10 +3021,11 @@
       ]
     },
     "Microsoft.NETCore.App/2.1.0": {
-      "sha512": "AvT774nTFgU8cYcGO9j1EMwuayKslxqYTurg32HGpWa2hEYNuW2+XgYVVNcZe6Ndbr84QX6fwaOZfd5n+1m2OA==",
+      "sha512": "JNHhG+j5eIhG26+H721IDmwswGUznTwwSuJMFe/08h0X2YarHvA15sVAvUkA/2Sp3W0ENNm48t+J7KTPRqEpfA==",
       "type": "package",
       "path": "microsoft.netcore.app/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "Microsoft.NETCore.App.versions.txt",
@@ -3280,10 +3287,11 @@
       ]
     },
     "Microsoft.NETCore.DotNetAppHost/2.1.0": {
-      "sha512": "f/47I60Wg3SrveTvnecCQhCZCAMYlUujWF15EQ/AZTqF/54qeEJjbCIAxKcZI8ToUYzSg6JdfrHggsgjCyCE9Q==",
+      "sha512": "vMn8V3GOp/SPOG2oE8WxswzAWZ/GZmc8EPiB3vc2EZ6us14ehXhsvUFXndYopGNSjCa9OdqC6L6xStF1KyUZnw==",
       "type": "package",
       "path": "microsoft.netcore.dotnetapphost/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -3293,10 +3301,11 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostPolicy/2.1.0": {
-      "sha512": "p50yZYKzhH64lmArJgoKjtvsNehECa+/sAuOQzZh5uDNBTbRKxjN8IXP1e517xdVsgrFcSNxSEVDKZIOWVjGcQ==",
+      "sha512": "vBUwNihtLUVS2HhO6WocYfAktRmfFihm6JB8/sJ53caVW+AelvbnYpfiGzaZDpkWjN6vA3xzOKPu9Vu8Zz3p8Q==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostpolicy/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -3306,10 +3315,11 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostResolver/2.1.0": {
-      "sha512": "fS9D8a+y55n6mHMbNqgHXaPGkjmpVH9h97OyrBxsCuo3Z8aQaFMJ5xIfmzji2ntUd/3truhMbSgSfIelHOkQpg==",
+      "sha512": "o0PRql5qOHFEY3d1WvzE+T7cMFKtOsWLMg8L1oTeGNnI4u5AzOj8o6AdZT3y2GxFA1DAx7AQ9qZjpCO2/bgZRw==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostresolver/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -3319,10 +3329,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "TT+QCi9LcxGTjBssH7S7n5+8DVcwfG4DYgXX7Dk7+BfZ4oVHj8Q0CbYk9glzAlHLsSt3bYzol+fOdra2iu6GOw==",
+      "sha512": "ok+RPAtESz/9MUXeIEz6Lv5XAGQsaNmEYXMsgVALj4D7kqC8gveKWXWXbufLySR2fWrwZf8smyN5RmHu0e4BHA==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -3335,10 +3346,11 @@
       ]
     },
     "Microsoft.NETCore.Targets/2.1.0": {
-      "sha512": "etaYwrLZQUS+b3UWTpCnUggd6SQ/ZIkZ5pHnoR7+dIWt/wp2Rv3CvMKOZISsrt7FYCHKwCxfcepuuyEWkQxADg==",
+      "sha512": "x188gIZXOwFXkPXyGavEcPGcR6RGvjFOES2QzskN4gERZjWPN34qhRsZVMC0CLJfQLGSButarcgWxPPM4vmg0w==",
       "type": "package",
       "path": "microsoft.netcore.targets/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -3425,10 +3437,11 @@
       ]
     },
     "MimeKit/2.0.3": {
-      "sha512": "Tdkkr02Mdfuk0NnVae3LygQoXRkiiZUKbmjPQ81FfqPV9MVnUjmL5CpMECPrxImq6cEfOVdy3DrwftpMjdTaQw==",
+      "sha512": "lOE4FyMDsjLAelSlbAbxILGf7PDQXKZf5n/pfxNQEoX8wkMQm4p3SXFDxadpoHg3U7adfZQU7fnbjLOxBRM5FA==",
       "type": "package",
       "path": "mimekit/2.0.3",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/monoandroid/BouncyCastle.dll",
         "lib/monoandroid/MimeKit.dll",
@@ -3455,10 +3468,11 @@
       ]
     },
     "MongoDB.Bson/2.6.0": {
-      "sha512": "IvYnEkNz/bqeAMcNk8lJMRK8C63WCnNapXPUlGjua2YhALV+j9bC2pZnQ8cYsZWXnkUn5mKVGciFrjMU42QywA==",
+      "sha512": "r1+TPncS+vJTXH7c53YeKJ9iwZGL3VQxZhCNbqOvWr2bqYMVNaPVuwudi8iO25KMSqRF6p3r26Tad+ORwL13KA==",
       "type": "package",
       "path": "mongodb.bson/2.6.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "License.rtf",
         "lib/net45/MongoDB.Bson.dll",
@@ -3470,10 +3484,11 @@
       ]
     },
     "MongoDB.Driver/2.6.0": {
-      "sha512": "VoGnY7RvhKHhKMQCZP/T7vFCTdSepkygeHRZeSzvtHqWRHTc92Adf7x3mibDmen9WgCpW8hbuxk0b9mXQg2hOA==",
+      "sha512": "Xan8v/nscmrb4qcpzOFDguc8ZGxSZSAOFCqH/Mg2Jeu6l9P9QmG6mqIjWyay3IbRmoe9fNvSgSoYDTAP8IQzAw==",
       "type": "package",
       "path": "mongodb.driver/2.6.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "License.rtf",
         "lib/net45/MongoDB.Driver.dll",
@@ -3485,10 +3500,11 @@
       ]
     },
     "MongoDB.Driver.Core/2.6.0": {
-      "sha512": "Kw/vNqSBxHt7yzi6ZG6ziEN83oxhEg/5946wWItllytJCQZ1ohD2PNxiQTwUynUnPJxps2UawUh+MdW3rgS5Ew==",
+      "sha512": "TGSRAD8kiyh7QlkY4WYi6o8xYKmIpsJlZh5I8faVNJc1E+hUbDnJILIOtG41P9MAJl9bxUH7XRUcEoGog9/CVg==",
       "type": "package",
       "path": "mongodb.driver.core/2.6.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "License.rtf",
         "lib/net45/MongoDB.Driver.Core.dll",
@@ -3500,10 +3516,11 @@
       ]
     },
     "MySqlConnector/0.40.3": {
-      "sha512": "ariXZaWHmvCXmNoo2g52gflH0bypWXbmwaSyGnPb81lWy6d/5YvL5ooUdZdZX+O/d5VM1pu+zlCPJBJsiQPQwQ==",
+      "sha512": "QEpWAalioqkhbMqIKaCgkDpPX9rgXup2TpPHZMH4Lg1r4ziwq1jkqeubxLemlg7qyHoVe/RXSgIlxFtzGgKtYQ==",
       "type": "package",
       "path": "mysqlconnector/0.40.3",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/net45/MySqlConnector.dll",
         "lib/net46/MySqlConnector.dll",
@@ -3669,10 +3686,11 @@
       ]
     },
     "NLog/4.5.3": {
-      "sha512": "qOfs/q60kd8Wxnp/gj/YpPZu3psWuGe+yvXVSBhLWo/639SCyPTaayfcugwr1SCKubaRiEWthvdjHF1T1VLRDQ==",
+      "sha512": "/JYo07DnD3qLsEn1juvmPTkbd7+FUAYHt+zZgCPZSWwQ8b061vXdgpQSC2KKe2GJTAUs07YbU7tfhiyDBgANlA==",
       "type": "package",
       "path": "nlog/4.5.3",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/monoandroid44/NLog.dll",
         "lib/monoandroid44/NLog.xml",
@@ -4012,10 +4030,11 @@
       ]
     },
     "Selenium.WebDriver/3.11.2": {
-      "sha512": "K3KGDNj72Wziq9r4ltRbHRMzLx5FtoVxFK1v8s+Opdo7EVBYNmwB4twh4Iz5O12jmHXMsK16z+if7Wlfy/Hk8g==",
+      "sha512": "q+6N4OOMC6zEW9k7AQM9KyspSYAOtA+rzOcRI266S7EGhTaQZEMxEX0Pdw+pjF1aDWmtEoGjwCmKAoa2v2zOsw==",
       "type": "package",
       "path": "selenium.webdriver/3.11.2",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/net35/WebDriver.dll",
         "lib/net35/WebDriver.xml",
@@ -4030,10 +4049,11 @@
       ]
     },
     "SSH.NET/2016.1.0": {
-      "sha512": "Ky0PcLxFj7UyK7zAfNDtdnQEEFKdIc8COiSqe69k13ACuSJNiHmvOwHkARAVFQ4VgsbVFLupgYiXes0O00wEWA==",
+      "sha512": "b0fcFFOE044KNRhq1uGujmK04ab+OzA9xARdeVCoZrY6I4D1IIaR6dn6qBIa+er4bJapGBhznDitwcRQpSRC0w==",
       "type": "package",
       "path": "ssh.net/2016.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/net35/Renci.SshNet.dll",
         "lib/net35/Renci.SshNet.xml",
@@ -4056,10 +4076,11 @@
       ]
     },
     "SshNet.Security.Cryptography/1.2.0": {
-      "sha512": "Gd87t3O1luT7tpoyx3NgH+ee2Xn7K1qh9VpDdayYf2HhddeempTX82ezGL7uIjxo48i/oIl7WNZZd6sTjjfVdQ==",
+      "sha512": "EeFsirrrkIK+cdlYsxukNjBN98cbU7eHfTYZEwxsbOa3dvgR/OhOD06C0sTxvNPhe4UQ6yM0p1sKcT69jqgjTw==",
       "type": "package",
       "path": "sshnet.security.cryptography/1.2.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/net20/SshNet.Security.Cryptography.dll",
         "lib/net20/SshNet.Security.Cryptography.xml",
@@ -4088,10 +4109,11 @@
       ]
     },
     "StackExchange.Redis/1.2.6": {
-      "sha512": "LAjOIrAYa5aA7JZZOLuVjKFSo/kFB/8VpI5x9h3O/jYAsymAuhntmMR18ERHqoXEU0Nv2D2Sk6JQjxwwjUqZrw==",
+      "sha512": "uBzdFmPmsCJWZ/Iau85+2Ogal6nPiY5gT8pl2gA7R4dQ14GwRpwyTGkTuD1+hgHVuBW+zkCSnysmWc7h277r/g==",
       "type": "package",
       "path": "stackexchange.redis/1.2.6",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/net45/StackExchange.Redis.dll",
         "lib/net45/StackExchange.Redis.xml",
@@ -4536,10 +4558,11 @@
       ]
     },
     "System.Configuration.ConfigurationManager/4.4.1": {
-      "sha512": "LoSjM/kLDpyLyoGsmwS5oVMRzHf/0XHkRpr3QZu/HuAv6Sfk919usTMLqD9N9VK3S4Q2+bd3tKJ0ko4MYFfq4Q==",
+      "sha512": "jz3TWKMAeuDEyrPCK5Jyt4bzQcmzUIMcY9Ud6PkElFxTfnsihV+9N/UCqvxe1z5gc7jMYAnj7V1COMS9QKIuHQ==",
       "type": "package",
       "path": "system.configuration.configurationmanager/4.4.1",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -5855,10 +5878,11 @@
       ]
     },
     "System.Net.Ping/4.3.0": {
-      "sha512": "byTQ62hnp4vaqwbEbNjFn4rOxhIX+IzWnTQpOewIQET591ggc0PufCIgEOY6iNlMAFCL/bitUOyR/hYFnKYeTQ==",
+      "sha512": "XwY4ozt8PFAMEov5QdXWla3R6U7LiLAVGnjFVWbN0MfQxS7p4PmYBOaD5TwPa7qatU1IUeIO9fJOGGSdqSeG5A==",
       "type": "package",
       "path": "system.net.ping/4.3.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
@@ -7301,10 +7325,11 @@
       ]
     },
     "System.Security.Cryptography.ProtectedData/4.4.0": {
-      "sha512": "WwEexvBd+17yfY7fcS+fBGl+HADEfCJuKeDJqBT7D6j6vKwYvfLyGuq2y/MmrKORC6mbYwth7kjinO1mPhTL3g==",
+      "sha512": "cJV7ScGW7EhatRsjehfvvYVBvtiSMKgN8bOVI0bQhnF5bU7vnHVIsH49Kva7i7GWaWYvmEzkYVk1TC+gZYBEog==",
       "type": "package",
       "path": "system.security.cryptography.protecteddata/4.4.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -7490,10 +7515,11 @@
       ]
     },
     "System.Security.SecureString/4.0.0": {
-      "sha512": "7TGOnj9Lr8ljCJbMHjZC34hEw3Z+zRPp7eNhLBg22mbSqO8gQMGLJ/vQkWv8HFYG0t2i53ZulKZ8NNho+jVK7Q==",
+      "sha512": "sqzq9GD6/b0yqPuMpgIKBuoLf4VKAj8oAfh4kXSzPaN6eoKY3hRi9C5L27uip25qlU+BGPfb0xh2Rmbwc4jFVA==",
       "type": "package",
       "path": "system.security.securestring/4.0.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
@@ -8355,23 +8381,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\hdh\\.nuget\\packages\\": {},
+    "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\DataSpider\\Spider.Entity\\Spider.Entity.csproj",
+      "projectUniqueName": "E:\\hdh_github_workspaces\\DataSpider\\Spider.Entity\\Spider.Entity.csproj",
       "projectName": "Spider.Entity",
-      "projectPath": "F:\\Project\\DataSpider\\Spider.Entity\\Spider.Entity.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "F:\\Project\\DataSpider\\Spider.Entity\\obj\\",
+      "projectPath": "E:\\hdh_github_workspaces\\DataSpider\\Spider.Entity\\Spider.Entity.csproj",
+      "packagesPath": "C:\\Users\\hdh\\.nuget\\packages\\",
+      "outputPath": "E:\\hdh_github_workspaces\\DataSpider\\Spider.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hdh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8383,6 +8410,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {}
         }
       },
@@ -8394,6 +8422,7 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "DotnetSpider.Core": {
             "target": "Package",
@@ -8411,10 +8440,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

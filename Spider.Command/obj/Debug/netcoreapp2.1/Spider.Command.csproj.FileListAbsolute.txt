@@ -7,3 +7,13 @@ F:\Project\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.Asse
 F:\Project\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.AssemblyInfo.cs
 F:\Project\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.dll
 F:\Project\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.pdb
+E:\hdh_github_workspaces\DataSpider\Spider.Command\bin\Debug\netcoreapp2.1\Spider.Command.deps.json
+E:\hdh_github_workspaces\DataSpider\Spider.Command\bin\Debug\netcoreapp2.1\Spider.Command.dll
+E:\hdh_github_workspaces\DataSpider\Spider.Command\bin\Debug\netcoreapp2.1\Spider.Command.pdb
+E:\hdh_github_workspaces\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.csproj.AssemblyReference.cache
+E:\hdh_github_workspaces\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.GeneratedMSBuildEditorConfig.editorconfig
+E:\hdh_github_workspaces\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.AssemblyInfoInputs.cache
+E:\hdh_github_workspaces\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.AssemblyInfo.cs
+E:\hdh_github_workspaces\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.csproj.CoreCompileInputs.cache
+E:\hdh_github_workspaces\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.dll
+E:\hdh_github_workspaces\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.pdb

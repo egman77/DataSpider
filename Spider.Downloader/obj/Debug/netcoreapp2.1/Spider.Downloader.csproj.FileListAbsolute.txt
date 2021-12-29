@@ -7,3 +7,13 @@ F:\Project\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloade
 F:\Project\DataSpider\Spider.Downloader\bin\Debug\netcoreapp2.1\Spider.Downloader.pdb
 F:\Project\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloader.dll
 F:\Project\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloader.pdb
+E:\hdh_github_workspaces\DataSpider\Spider.Downloader\bin\Debug\netcoreapp2.1\Spider.Downloader.deps.json
+E:\hdh_github_workspaces\DataSpider\Spider.Downloader\bin\Debug\netcoreapp2.1\Spider.Downloader.dll
+E:\hdh_github_workspaces\DataSpider\Spider.Downloader\bin\Debug\netcoreapp2.1\Spider.Downloader.pdb
+E:\hdh_github_workspaces\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloader.csproj.AssemblyReference.cache
+E:\hdh_github_workspaces\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloader.GeneratedMSBuildEditorConfig.editorconfig
+E:\hdh_github_workspaces\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloader.AssemblyInfoInputs.cache
+E:\hdh_github_workspaces\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloader.AssemblyInfo.cs
+E:\hdh_github_workspaces\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloader.csproj.CoreCompileInputs.cache
+E:\hdh_github_workspaces\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloader.dll
+E:\hdh_github_workspaces\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloader.pdb
